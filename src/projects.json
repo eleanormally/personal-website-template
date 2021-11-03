@@ -1,0 +1,9 @@
+{
+  "projectsSource": [
+    {
+      "name": "Test Project 1",
+      "source": "Pages/Project1.md",
+      "description": "A test project for the template"
+    }
+  ]
+}
